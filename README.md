@@ -17,7 +17,6 @@ after that, instant tests and acceleration tools that make broadcasting easier s
 
 
 
-
 ## Bir Sonraki Güncellemede Gelecek Özellikler
 
 - Twitch yayındayken anlın BİTRATE testi
@@ -25,3 +24,9 @@ after that, instant tests and acceleration tools that make broadcasting easier s
 ## Features That Will Come in the Next Update
 
 - Understand BITRATE test while Twitch is streaming
+
+## Yazarlar ve Teşekkür
+
+- [WEB SİTE](https://erenrip.github.io/livenettest/) Daha detaylı bilgiye ulaşmak için.
+
+- [WEB PAGE](https://erenrip.github.io/livenettest/)To access more detailed information.
