@@ -25,7 +25,7 @@ ağ hızınızın hangi platformda ne kadar kaliteli yayın yaptığını biliyo
 
 . Understand BITRATE test while Twitch is streaming
 ---
-## Yazarlar ve Teşekkür
+## Web site bilgi     |  Web page info
 
 - [WEB SİTE](https://erenrip.github.io/livenettest/) Daha detaylı bilgiye ulaşmak için.
 
