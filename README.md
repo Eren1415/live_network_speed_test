@@ -10,20 +10,20 @@ ağ hızınızın hangi platformda ne kadar kaliteli yayın yaptığını biliyo
 ---
 ## Özellikler (Şuanda mevcut olan)
 
-- Youtube yayın testi
+. Youtube yayın testi
 
 ## Features (Currently available)
 
-- Youtube broadcast test
+. Youtube broadcast test
 ---
 
 ## Bir Sonraki Güncellemede Gelecek Özellikler
 
-- Twitch yayındayken anlın BİTRATE testi
+. Twitch yayındayken anlın BİTRATE testi
 
 ## Features That Will Come in the Next Update
 
-- Understand BITRATE test while Twitch is streaming
+. Understand BITRATE test while Twitch is streaming
 ---
 ## Yazarlar ve Teşekkür
 
