@@ -27,6 +27,6 @@ ağ hızınızın hangi platformda ne kadar kaliteli yayın yaptığını biliyo
 ---
 ## Web site bilgi     |  Web page info
 
-- [WEB SİTE](https://erenrip.github.io/livenettest/) Daha detaylı bilgiye ulaşmak için.
+- [WEB SİTE](https://eren1415.github.io/livenettest/) Daha detaylı bilgiye ulaşmak için.
 
-- [WEB PAGE](https://erenrip.github.io/livenettest/)To access more detailed information.
+- [WEB PAGE](https://eren1415.github.io/livenettest/)To access more detailed information.
